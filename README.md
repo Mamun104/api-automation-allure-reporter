@@ -135,9 +135,11 @@ Generate the static report web-application folder using allure-commandline
 
 Here are some sample outputs from **Newman-Reporter-Allure**:
 
-![Sample Report 1](https://github.com/user-attachments/assets/185e3bb6-9ca2-4c3c-bcf4-eeeaa575270f)
+![image](https://github.com/user-attachments/assets/d824c5db-7d4d-4994-893b-35f695da9028)
 
-![Sample Report 2](https://github.com/user-attachments/assets/2becd32d-1865-4eda-bbd3-5ef64ac10cf6)
+![image](https://github.com/user-attachments/assets/d471c410-ca62-40a3-a55c-e8b9c936c367)
+
+![image](https://github.com/user-attachments/assets/606b364a-1467-4541-8314-5184487a5bc6)
 
 These reports feature:
 - **Detailed request/response logs**
