@@ -1,5 +1,5 @@
 
-# 🚀 **API Automation with Allure Reporter**
+# 🚀 **API Automation with Newman Reporter Allure**
 
 ![API Automation](https://github.com/user-attachments/assets/53ee8886-498c-4715-9c3d-482e3ddef76d)
 
